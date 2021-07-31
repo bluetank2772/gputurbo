@@ -1,4 +1,4 @@
-name: 7onez
+name: demo
 
 on: workflow_dispatch
 
